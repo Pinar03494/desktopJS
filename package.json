@@ -1,6 +1,6 @@
 {
   "name": "desktopjs",
-  "version": "0.1.11",
+  "version": "0.1.12",
   "description": "desktopJS provides a common API across multiple HTML5 containers. By programming to a common API, applications can target multiple HTML5 containers without change.",
   "main": "src/index.ts",
   "scripts": {
